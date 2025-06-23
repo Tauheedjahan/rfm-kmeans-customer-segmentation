@@ -44,7 +44,7 @@ rfm-kmeans-customer-segmentation/
 
 > Example of RFM-based Clustering Output:
 
-![Customer Segmentation Dashboard](images/dashboard.png)
+![Customer Segmentation Dashboard](images/Dashboard.png)
 
 ---
 
