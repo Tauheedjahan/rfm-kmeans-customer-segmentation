@@ -1,0 +1,21 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific folders
+.vscode/
+.idea/
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore generated CSV output (optional)
+data/rfm_clustered.csv
